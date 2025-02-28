@@ -2,6 +2,8 @@
 
 This repository contains a list of countries in JSON format, including their ISO codes, and calling codes.
 
+There is also a very basic PostgreSQL import script for convenience. 
+
 
 ## Contributing
 
